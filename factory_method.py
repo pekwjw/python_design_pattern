@@ -1,6 +1,6 @@
 # -*- coding:utf-8 -*-
-# author:pekwjw
-# date:2019-01-29
+# author: pekwjw
+# date: 2019-01-29
 
 class Button(object):
     def __init__(self,shape = 'circle'):
